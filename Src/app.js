@@ -14,7 +14,7 @@ async function donate(projectId, amount) {
 
   const accounts = await web3.eth.getAccounts();
 
-  const cUSDAddress = "YOUR_CUSD_CONTRACT_ADDRESS";
+  const cUSDAddress = "0x765DE816845861e75A25fCA122bb6898B8B1282a";
 
   const decimals = 18;
 
