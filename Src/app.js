@@ -2,7 +2,7 @@
 
 const contractAddress = "0xadCf4F221453b9a3ED3B59fFDe6C59F7D8bBA1A5";
 
-const contractABI = "YOUR_CONTRACT_ABI";
+const contractABI = "main.abi.json";
 
 const web3 = new Web3(window.celo);
 
